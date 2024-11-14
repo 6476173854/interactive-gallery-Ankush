@@ -11,7 +11,7 @@ const images = [
     { src: 'images/about.jpg', alt: 'this is a picture of our milky galaxy that is seeing more beautiful when we gaze it', hdSrc: 'images/about.jpg' },
     { src: 'images/a10.jpg', alt: 'this picture shows a natural beauty of our world with having trees water and mountain', hdSrc: 'images/a10.jpg' },
     { src: 'images/a11.jpg', alt: 'this picture shows a fountain which is blowing and giving good vibes to them who are very close to it', hdSrc: 'images/a11.jpg' },
-    { src: 'images/a12.jpg', alt: 'the forest picture displays that nature hides so many things in it.', hdSrc: 'images/a12.jpg' },
+    { src: 'images/a12.jpg', alt: 'the forest picture displays that nature hides so many things inside it.', hdSrc: 'images/a12.jpg' },
 ];
 
 
