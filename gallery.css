@@ -1,4 +1,4 @@
-/* Reset styles (optional, if using reset.css) */
+
 * {
     margin: 0;
     padding: 0;
@@ -12,22 +12,22 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    flex-direction: column; /* Arrange header and gallery vertically */
+    flex-direction: column; 
 }
 
 header {
     position: absolute;
-    top: 20px; /* Space from the top */
+    top: 20px; 
     left: 50%;
     transform: translateX(-50%);
     background: linear-gradient(to right, #0cec04, #6a9eff);
-    text-align: center; /* Center text in header */
+    text-align: center; 
     padding: 20px 40px;
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     max-width: 900px;
     width: 100%;
-    z-index: 10; /* Ensure header is on top of images */
+    z-index: 10; 
 }
 
 h1 {
@@ -81,9 +81,9 @@ h1:hover {
     }
 }
 
-/* Gallery Styles */
+
 .gallery {
-    margin-top: 120px; /* Create space for header */
+    margin-top: 120px;
     width: 100%;
     max-width: 1200px;
     padding: 0 20px;
@@ -107,7 +107,7 @@ h1:hover {
     transform: scale(1.1);
 }
 
-/* Modal styles */
+
 .modal {
     display: none;
     position: fixed;
@@ -122,7 +122,7 @@ h1:hover {
 
 .modal-content {
     position: relative;
-    background: #fff;
+    background: #faf8f8;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
